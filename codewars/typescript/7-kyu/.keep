@@ -1,0 +1,24 @@
+p 
+Return the number (count) of vowels in the given string.
+
+We will consider a, e, i, o, u as vowels for this Kata (but not y).
+
+The input string will only consist of lower case letters and/or spaces 
+
+E
+abracadabra = 5 vowels
+montana = 3 vowels
+suncoast = 2 vowels 
+guild = 2 vowels 
+macbook = 3 vowels
+developer = 4 vowels 
+
+D 
+foreach 
+string 
+count of some sort 
+const 
+
+A 
+-declare vowels which are a,e,i,o,u 
+for each char in string if = to A then 
