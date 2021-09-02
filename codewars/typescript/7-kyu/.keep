@@ -22,3 +22,6 @@ const
 A 
 -declare vowels which are a,e,i,o,u 
 for each char in string if = to A then 
+
+
+

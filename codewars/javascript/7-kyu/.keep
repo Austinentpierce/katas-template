@@ -1,0 +1,37 @@
+P
+You are working at a lower league football stadium and you've been tasked with automating the scoreboard.
+
+The referee will shout out the score, you have already set up the voice recognition module which turns the ref's voice into a string, but the spoken score needs to be converted into a pair for the scoreboard!
+
+e.g. "The score is four nil" should return [4,0]
+
+Either teams score has a range of 0-9, and the ref won't say the same string every time e.g. 
+
+E 
+"new score: two three"
+  
+"two two"
+  
+"Arsenal just conceded another goal, two nil"
+
+"The score now is five nil"
+
+"five seven"
+
+"The buccaneers just scored a touchdown the score now is seven three"
+
+D 
+string 
+array 
+if 
+
+A 
+1. A ref is going to be out on the field saying the score the program has to output his 
+voice into a string and turn into a pair of numbers representing the score
+
+2. declare new string of refs voice score 
+3. range of score is 0-9 for each team 
+4. nil = 0 
+5. one = 1, two = 2, three = 3, four 4, five = 5, six = 6, seven = 7, eight = 8, nine = 9. 
+6. string of "score is four nil" should return an array [4,0]
+7  
