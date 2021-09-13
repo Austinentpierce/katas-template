@@ -35,3 +35,24 @@ voice into a string and turn into a pair of numbers representing the score
 5. one = 1, two = 2, three = 3, four 4, five = 5, six = 6, seven = 7, eight = 8, nine = 9. 
 6. string of "score is four nil" should return an array [4,0]
 7  
+
+
+
+P
+Receive a number and return number with the biggest number first 
+and then followed by the next number...etc 
+Natural numbers can be the only type of numbers passed through to Receive the largest of them 
+
+
+E 
+376 = 763
+3984 = 9843 
+2029 = 9220 
+384 = 843 
+294 = 942 
+891 = 981
+
+D 
+numbers 
+arrays 
+
