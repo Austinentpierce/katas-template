@@ -1,0 +1,22 @@
+
+P
+Return a * down a line making a christmas tree 
+The numbers will be odd numbers going down 1,3,5,7,9
+height = 5 should return the christmas tree as there is 5 rows of * 
+numbering 1,3,5,7,9
+also using the new line as \n 
+
+E 
+          *
+         ***
+        *****
+       *******
+      ********* 
+
+representing the 5 rows for height 
+
+D
+string 
+array 
+
+A 
